@@ -7,6 +7,9 @@ carpma= sayi1 * sayi2
 bolme= sayi1 / sayi2
 
 
+print("Sonuçlar aşağıda verilmiştir")
+print("==============================")
+
 
 print("Toplama işlemi : " + str( toplam ))
 print("Cikartma işlemi : " + str( cikartma ))
