@@ -6,6 +6,7 @@ cikartma= sayi1 - sayi2
 carpma= sayi1 * sayi2
 bolme= sayi1 / sayi2
 
+print("*********************************")
 
 
 print("Toplama işlemi : " + str( toplam ))
